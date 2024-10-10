@@ -1,0 +1,15 @@
+
+.bulb{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin-top: 100px;
+
+}       
+button{
+        height: 20px;
+        border-radius: 50%; 
+        background-color: black;
+        color: white;
+        height: 34px;
+}
